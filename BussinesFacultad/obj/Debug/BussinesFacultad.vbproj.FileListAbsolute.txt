@@ -1,0 +1,14 @@
+C:\Users\edson\source\repos\Facultad\BussinesFacultad\bin\Debug\BussinesFacultad.dll
+C:\Users\edson\source\repos\Facultad\BussinesFacultad\bin\Debug\BussinesFacultad.pdb
+C:\Users\edson\source\repos\Facultad\BussinesFacultad\bin\Debug\BussinesFacultad.xml
+C:\Users\edson\source\repos\Facultad\BussinesFacultad\bin\Debug\ContractsFacultad.dll
+C:\Users\edson\source\repos\Facultad\BussinesFacultad\bin\Debug\ContractsFacultad.pdb
+C:\Users\edson\source\repos\Facultad\BussinesFacultad\bin\Debug\ContractsFacultad.xml
+C:\Users\edson\source\repos\Facultad\BussinesFacultad\obj\Debug\BussinesFacultad.vbprojAssemblyReference.cache
+C:\Users\edson\source\repos\Facultad\BussinesFacultad\obj\Debug\BussinesFacultad.Resources.resources
+C:\Users\edson\source\repos\Facultad\BussinesFacultad\obj\Debug\BussinesFacultad.vbproj.GenerateResource.cache
+C:\Users\edson\source\repos\Facultad\BussinesFacultad\obj\Debug\BussinesFacultad.vbproj.CoreCompileInputs.cache
+C:\Users\edson\source\repos\Facultad\BussinesFacultad\obj\Debug\BussinesFacultad.vbproj.CopyComplete
+C:\Users\edson\source\repos\Facultad\BussinesFacultad\obj\Debug\BussinesFacultad.dll
+C:\Users\edson\source\repos\Facultad\BussinesFacultad\obj\Debug\BussinesFacultad.xml
+C:\Users\edson\source\repos\Facultad\BussinesFacultad\obj\Debug\BussinesFacultad.pdb

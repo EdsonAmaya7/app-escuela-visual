@@ -1,0 +1,10 @@
+C:\Users\edson\source\repos\Facultad\ContractsFacultad\bin\Debug\ContractsFacultad.dll
+C:\Users\edson\source\repos\Facultad\ContractsFacultad\bin\Debug\ContractsFacultad.pdb
+C:\Users\edson\source\repos\Facultad\ContractsFacultad\bin\Debug\ContractsFacultad.xml
+C:\Users\edson\source\repos\Facultad\ContractsFacultad\obj\Debug\ContractsFacultad.vbprojAssemblyReference.cache
+C:\Users\edson\source\repos\Facultad\ContractsFacultad\obj\Debug\ContractsFacultad.Resources.resources
+C:\Users\edson\source\repos\Facultad\ContractsFacultad\obj\Debug\ContractsFacultad.vbproj.GenerateResource.cache
+C:\Users\edson\source\repos\Facultad\ContractsFacultad\obj\Debug\ContractsFacultad.vbproj.CoreCompileInputs.cache
+C:\Users\edson\source\repos\Facultad\ContractsFacultad\obj\Debug\ContractsFacultad.dll
+C:\Users\edson\source\repos\Facultad\ContractsFacultad\obj\Debug\ContractsFacultad.xml
+C:\Users\edson\source\repos\Facultad\ContractsFacultad\obj\Debug\ContractsFacultad.pdb
